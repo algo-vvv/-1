@@ -1,0 +1,72 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color: aquamarine;
+    padding: 10px;
+}
+
+h1 {
+    color: aquamarine;
+    font-size: 40px;
+}
+
+footer {
+    font-size:20px;
+    background-color: aquamarine;
+    padding: 10px;
+}
+
+footer p {
+    background-color: blue;
+    padding: 10px;
+}
+
+select {
+    color: blue;
+    padding: 10px;
+}
+
+sect option {
+    background-color: brown
+    color:
+}
+
+.product {
+    background-color: chartreuse;
+    border-radius: 25px;
+    padding: 25px;
+    color: aliceblue;
+}
+
+nav {
+    border: 26px solid aquamarine;
+    padding: 15px;
+}
+
+nav a {
+    color: rgb(0, 0, 255);
+    text-decoration: none;
+    border: none;
+}
+
+main {
+padding: 5px;
+}
+
+h2 {
+    font-size: 35px;
+    color: aquamarine;
+}
+
+p {
+    font-size: 25px;
+}
+
+a {
+    font-size: 20px;
+    color: rgb(255, 0, 0);
+    border: 2px solid aquamarine;
+    text-decoration: none;
+}
